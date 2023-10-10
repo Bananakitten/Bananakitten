@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ezinneaniugbo
-- 👀 I’m interested in Data analysis
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on any Data analysis project
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Tableau
+- 💞️ I’m looking to collaborate on any DS/DA project
 - 📫 How to reach me ezinneaniugbo@gmail.com
 
 <!---
